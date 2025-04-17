@@ -73,7 +73,7 @@ Pillow
 
 ## ✍️ Author
 
-Hubbal – Final Submission Project - Bangkit Machine Learning Path
+Hubbal – Final Submission Project - Dicoding Beginner Machine Learning Course
 
 ---
 
